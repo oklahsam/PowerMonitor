@@ -1,0 +1,8 @@
+1x PCB - Generated and ordered through EasyEDA (files included)
+6x CT Clamps                 - I used: https://www.amazon.com/gp/product/B07D8SXQ13/
+1x ESP32                     - I used: https://www.amazon.com/gp/product/B07Q576VWZ/
+6x Potentiometers            - I used: https://www.amazon.com/gp/product/B015RJX0SM/
+6x 3.5mm PCB mount connector - I used: https://www.amazon.com/gp/product/B07KY7XX34/
+2x 12k Ohm Resistors         - I used: https://www.amazon.com/gp/product/B07N1ZK8CC/
+1x 1uF Capacitor             - I used: https://www.amazon.com/gp/product/B073DWCKXF/
+1x LMV321IDCKR Op Amp        - I used: https://www.mouser.com/ProductDetail/Texas-Instruments/LMV321IDCKR?qs=p6YqzpSxLIzuatXd1sAikQ%3D%3D
